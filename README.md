@@ -1,1 +1,1 @@
-# Ecommerce_Cypress_POM
+# DemoQA_Cypress_POM
