@@ -1,6 +1,6 @@
 import { ButtonsPage } from "../../PageObjects/ElementsPages/ButtonsPage.cy";
 
-describe('Verify All Buttons', ()=>{
+describe('Verify All Buttons',()=>{
     
 before(()=>{
     cy.visit("buttons")
