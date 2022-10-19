@@ -7,7 +7,7 @@ module.exports = defineConfig({
       // implement node event listeners here
     },
 
-    baseUrl: 'https://google.com/',
+    baseUrl: 'https://demoqa.com/',
     specPattern: "cypress/e2e/**/*.{js,jsx,ts,tsx}"
   },
 });

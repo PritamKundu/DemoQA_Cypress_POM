@@ -1,0 +1,94 @@
+{
+  "textBoxData": [
+    {
+      "fullname": "Auntor",
+      "email": "Auntor@gmail.com",
+      "currentAddress": "Uttora",
+      "permanentAddress": "Pathrail"
+    },
+    {
+      "fullname": "ontu",
+      "email": "Auntor@gmail.com",
+      "currentAddress": "Dhaka",
+      "permanentAddress": "tangail"
+    },
+    {
+      "fullname": "ABX",
+      "email": "Auntor@gmail.com",
+      "currentAddress": "Uttora",
+      "permanentAddress": "Pathrail"
+    },
+    {
+      "fullname": "dfgh",
+      "email": "Auntor@gmail.com",
+      "currentAddress": "Uttora",
+      "permanentAddress": "Pathrail"
+    }
+  ],
+  "checkBoxData": [
+    "notes",
+    "react",
+    "angular",
+    "veu",
+    "public",
+    "private",
+    "wordFile"
+  ],
+  "formData": {
+    "email": [
+      "achagmail.com",
+      "asas@sdsdsdsd."
+    ],
+    "mobileNumber": [
+      "shgdjsdhjsd",
+      123456789
+    ]
+  },
+  "menuData": {
+    "selectValue": "A root option",
+    "selectOne": "Mrs.",
+    "OldStyleSelectMenu": "Blue",
+    "StandardMultiSelect": "opel"
+  },
+  "bookApplication": {
+    "register": {
+      "firstName": "Auntor",
+      "lastName": "Acharja",
+      "userName": "Ontu",
+      "password": "12345Aa!@"
+    },
+    "login": {
+      "userName": "Ontu",
+      "password": "12345Aa!@"
+    },
+    "invalidCredantial": [
+      {
+        "userName": "sdhsjdhskd",
+        "password": "hdkdjhs95965656"
+      },
+      {
+        "userName": "Ontu",
+        "password": "hdkdjhs95965656"
+      },
+      {
+        "userName": "sdsdsd",
+        "password": "12345Aa!@"
+      }
+    ],
+    "emptyField": [
+      {
+        "userName": "",
+        "password": "hdkdjhs95965656"
+      },
+      {
+        "userName": "Ontu",
+        "password": ""
+      },
+      {
+        "userName": "",
+        "password": ""
+      }
+    ],
+    "books":["Speaking JavaScript","Understanding ECMAScript 6","You Don't Know JS"]
+  }
+}
