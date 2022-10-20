@@ -1,28 +1,28 @@
 {
   "textBoxData": [
     {
-      "fullname": "Auntor",
-      "email": "Auntor@gmail.com",
-      "currentAddress": "Uttora",
-      "permanentAddress": "Pathrail"
+      "fullname": "Pranta",
+      "email": "Prantakundu.pk5@gmail.com",
+      "currentAddress": "Nikunja-2",
+      "permanentAddress": "Jhenaidah"
     },
     {
-      "fullname": "ontu",
-      "email": "Auntor@gmail.com",
+      "fullname": "Pritam",
+      "email": "Pritam@gmail.com",
       "currentAddress": "Dhaka",
-      "permanentAddress": "tangail"
+      "permanentAddress": "Shoilokupa"
     },
     {
-      "fullname": "ABX",
-      "email": "Auntor@gmail.com",
-      "currentAddress": "Uttora",
-      "permanentAddress": "Pathrail"
+      "fullname": "Prosenjit",
+      "email": "Prosenjit@gmail.com",
+      "currentAddress": "Jhenaidah",
+      "permanentAddress": "Langalbandh"
     },
     {
-      "fullname": "dfgh",
-      "email": "Auntor@gmail.com",
+      "fullname": "Don",
+      "email": "Don@gmail.com",
       "currentAddress": "Uttora",
-      "permanentAddress": "Pathrail"
+      "permanentAddress": "Jhenaidah"
     }
   ],
   "checkBoxData": [
@@ -31,8 +31,7 @@
     "angular",
     "veu",
     "public",
-    "private",
-    "wordFile"
+    "private"
   ],
   "formData": {
     "email": [
@@ -52,13 +51,13 @@
   },
   "bookApplication": {
     "register": {
-      "firstName": "Auntor",
-      "lastName": "Acharja",
-      "userName": "Ontu",
+      "firstName": "Pranta",
+      "lastName": "Kundu",
+      "userName": "Pritam",
       "password": "12345Aa!@"
     },
     "login": {
-      "userName": "Ontu",
+      "userName": "Pranta",
       "password": "12345Aa!@"
     },
     "invalidCredantial": [
@@ -67,7 +66,7 @@
         "password": "hdkdjhs95965656"
       },
       {
-        "userName": "Ontu",
+        "userName": "Pritam",
         "password": "hdkdjhs95965656"
       },
       {
@@ -81,7 +80,7 @@
         "password": "hdkdjhs95965656"
       },
       {
-        "userName": "Ontu",
+        "userName": "Pritam",
         "password": ""
       },
       {

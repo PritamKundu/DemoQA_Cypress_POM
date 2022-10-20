@@ -26,3 +26,22 @@
 
 ///<reference types="cypress"/>
 ///<reference types="cypress-xpath"/>
+
+// require('cy-verify-downloads').addCustomCommand();
+
+// Cypress.Commands.add('findElementById', (id) => {
+//    cy.get(`#${id}`)
+// })
+
+// Cypress.Commands.add('findElementByClassName', (classsName) => {
+//    cy.get(`.${classsName}`)
+// })
+
+// Cypress.Commands.add('findElementByXpath', (xpath) => {
+//    cy.xpath(`${xpath}`)
+// })
+
+// Cypress.Commands.add('findElementByTestId', (testId) => {
+//    cy.get(`[data-cy='${testId}']`)
+// })
+
