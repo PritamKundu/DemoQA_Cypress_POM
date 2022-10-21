@@ -1,4 +1,4 @@
-import { ButtonsPage } from "../../PageObjects/ElementsPages/ButtonsPage.cy";
+import { ButtonsPage } from "../../PageObjects/ElementsPages/ButtonsPage"
 
 describe('Verify All Buttons', ()=>{
     

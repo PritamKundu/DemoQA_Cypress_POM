@@ -1,10 +1,12 @@
-import {CheckBoxPage} from "../../PageObjects/ElementsPages/CheckBoxPage.cy";
+import {CheckBoxPage} from "../../PageObjects/ElementsPages/CheckBoxPage"
 
-        before(()=>{
-            cy.fixture('testData').as('data')
-        })
+    before(()=>{
+        cy.fixture('testData.json').as('data')
+    })
   
     describe('Test CheckBox Feature', ()=>{
+        
+
         before(function(){
             cy.visit("checkbox")
         })

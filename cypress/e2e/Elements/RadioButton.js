@@ -1,4 +1,4 @@
-import { RadioButtonsPage } from "../../PageObjects/ElementsPages/RadioButtonsPage.cy";
+import { RadioButtonsPage } from "../../PageObjects/ElementsPages/RadioButtonsPage"
 
 describe('Check Radio Button', ()=> {
     

@@ -1,9 +1,7 @@
+import { TextBoxPage } from "../../PageObjects/ElementsPages/TextBoxPage"
 
-import { TextBoxPage } from "../../PageObjects/ElementsPages/TextBoxPage.cy";
-
-
-    before(()=>{
-        cy.fixture('testData.json').as('data')
+    before(()=>{  
+        cy.fixture('testData').as('data')
     })
 
 describe('Check Full Name', ()=>{
@@ -20,10 +18,9 @@ describe('Check Full Name', ()=>{
     })
 
 
-    it('Verify Form with data', ()=>{
+    it('Verify Form with data', function() {
         const formElement = new TextBoxPage()
         const textBoxDataLength = this.data.textBoxData.length
-    
         for (var i = 0; i < textBoxDataLength; i++) {
             formElement.fullname().type(this.data.textBoxData[i].fullname)
             formElement.email().type(this.data.textBoxData[i].email)

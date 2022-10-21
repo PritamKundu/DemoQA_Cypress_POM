@@ -1,21 +1,19 @@
-
-
 export class TextBoxPage{
 
     fullname() {
-        return cy.get("#userName");
+        return cy.get("#userName").clear()
     }
 
     email() {
-        return cy.get("#userEmail");
+        return cy.get("#userEmail").clear()
     }
 
     currentAddress() {
-        return cy.get("#currentAddress");
+        return cy.get("#currentAddress").clear()
     }
 
     permanentAddress() {
-        return cy.get("#permanentAddress");
+        return cy.xpath("//textarea[@id='permanentAddress']").clear()
     }
 
     submitButton() {
