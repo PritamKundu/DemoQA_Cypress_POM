@@ -12,4 +12,5 @@ export class ButtonsPage{
     cy.xpath("//button[normalize-space()='Click Me']").click()
     }
 
+    
 }
