@@ -8,7 +8,8 @@ module.exports = defineConfig({
     },
 
     //baseUrl: 'http://automationpractice.com/',
-    baseUrl: 'https://demoqa.com/',
+    baseUrl: 'https://mooleker.moocommerce.no/',
+    //baseUrl: 'https://demoqa.com/',
     specPattern: "cypress/e2e/**/*.{js,jsx,ts,tsx}"
   },
 });
