@@ -13,6 +13,7 @@ describe('Check Radio Button', ()=> {
         radioButton.checkNoRadioBtn()
         
         
+        
     })
 
     it("Verify Yes & Impressive Radio button can be checked or not", ()=>{
@@ -22,5 +23,7 @@ describe('Check Radio Button', ()=> {
        radioButton.checkImpressiveRadioBtn()
        cy.get(".text-success").should('contain','Impressive')
     })
+
+
 
 })
