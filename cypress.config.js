@@ -7,7 +7,6 @@ module.exports = defineConfig({
       // implement node event listeners here
     },
     
-
     //baseUrl: 'http://automationpractice.com/',
     baseUrl: 'https://mooleker.moocommerce.no/',
     //baseUrl: 'https://demoqa.com/',
